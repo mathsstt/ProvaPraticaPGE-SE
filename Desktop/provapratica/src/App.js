@@ -9,8 +9,6 @@ import Typography from '@mui/material/Typography';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import { AiOutlineEyeInvisible, AiOutlineEye} from 'react-icons/ai';
 import Logo from './assets/logo-2.png';
-import './style.css';
-import {useState} from "react";
 
 function Copyright(props) {
   return (
